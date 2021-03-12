@@ -160,7 +160,7 @@ button:hover{
 }
 /* Footer */
 
-.zebi{
+.footer{
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
